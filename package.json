@@ -1,0 +1,35 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "This is prsctice for the react",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashu2764/Namste-react.git"
+  },
+  "keywords": [
+    "react",
+    "practice"
+  ],
+  "author": "Ashwani Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashu2764/Namste-react/issues"
+  },
+  "homepage": "https://github.com/ashu2764/Namste-react#readme",
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "re": "^0.1.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
